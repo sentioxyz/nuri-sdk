@@ -1,10 +1,10 @@
 {
-  "name": "@uniswap/v3-sdk",
+  "name": "@sentio/nuri-sdk",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "version": "3.11.0",
+  "version": "1.0.1",
   "description": "⚒️ An SDK for building applications on top of Uniswap V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
